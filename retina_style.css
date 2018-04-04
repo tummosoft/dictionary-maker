@@ -27,12 +27,12 @@ textarea { overflow: auto; }
 .right, .alignright { float: right; display: inline; }
 
 .shell { width: 981px; margin: 0 auto; }
-.container { background: url('https://4.bp.blogspot.com/-PvrVTTiXRq0/WsTaC-mIciI/AAAAAAAAAYo/WZ_mXzLnpzMtP3WPI3z-mvAL7xUe7DHZQCLcBGAs/s1600/container.png') repeat-y center 0; box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -moz-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -webkit-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -o-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05);  }
+.container { background: url('http://4.bp.blogspot.com/-PvrVTTiXRq0/WsTaC-mIciI/AAAAAAAAAYo/WZ_mXzLnpzMtP3WPI3z-mvAL7xUe7DHZQCLcBGAs/s1600/container.png') repeat-y center 0; box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -moz-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -webkit-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05); -o-box-shadow: 0px 0px 0px 4px rgba(0,0,0,0.05);  }
 
 
 #header { margin-bottom: 15px;  position: relative; padding-top: 25px;  height: 43px; background: url('https://1.bp.blogspot.com/-jkrmB6V588U/WsTaAinmytI/AAAAAAAAAYQ/MqmXXy6grTAUUarHVZTOHsbG10FpahLdACLcBGAs/s1600/border-title.png') repeat-x 0 bottom; }
 #logo { width: 129px; font-size: 0; line-height: 0; position:absolute; top: 23px; left: 21px; }
-#logo a { height: 26px; display: block; background: url('https://3.bp.blogspot.com/-4eQ77p0aFB8/WsTaGS1pBGI/AAAAAAAAAZU/Azv_9WCDDygF4FHsdqSCSPHIqluxDz6iACLcBGAs/s1600/logo.png') no-repeat 0 0; text-indent: -4000px; }
+#logo a { height: 26px; display: block; background: url('http://3.bp.blogspot.com/-4eQ77p0aFB8/WsTaGS1pBGI/AAAAAAAAAZU/Azv_9WCDDygF4FHsdqSCSPHIqluxDz6iACLcBGAs/s1600/logo.png') no-repeat 0 0; text-indent: -4000px; }
 .search { width: 210px; margin-left: auto; padding-right: 21px; }
 .search input.field { float:left; width: 166px; padding:0 8px; height: 24px; line-height: 24px;  border: 1px solid #d3d3d3; font-size: 11px; color:#bebebe; background: #ededed; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; }
 .search input.search-btn { float:left;  font-size: 0; line-height: 0; text-indent: -4000px; cursor: pointer; width: 20px; height: 26px; border: 0; background: url(images/search-ico.png) no-repeat 0 0; }
