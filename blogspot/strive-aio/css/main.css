@@ -99,7 +99,7 @@ footer a.twitter{display:inline-block; padding-left:25px; background:url("img/tw
 /*******************************************************************************************************************
 *  OTHER STYLES                                                                                                    
 *******************************************************************************************************************/
-#wrap{margin-top:40px; position:relative; width:940px;}
+#wrap{margin:0 auto; position:relative; width:940px;}
 
 a.button{display:inline-block; color:#fff; text-decoration:none; height:32px; line-height:30px; text-decoration:none; cursor:pointer;}
 a.button span{display:inline-block; padding:0 15px; font-size:1.0em; height:32px;}
