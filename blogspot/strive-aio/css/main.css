@@ -75,9 +75,9 @@ header nav li.active a{font-weight:bold;}
 #content{padding:0 0 50px;}
 #content .cols{border-bottom:1px solid #e7e7e7; padding-bottom:30px;}
 #content h2.withIcon{padding-left:40px;}
-#content h2.withIcon.icon1{background:url("img/icon1.png") no-repeat 0 5px; padding-left:50px;}
-#content h2.withIcon.icon2{background:url("img/icon2.png") no-repeat 0 5px;}
-#content h2.withIcon.icon3{background:url("img/icon3.png") no-repeat 0 5px;}
+#content h2.withIcon.icon1{background:url("https://4.bp.blogspot.com/-TJYQuf3JzNU/Wtw40biXq9I/AAAAAAAAAd0/guRUiOuTBrA9vfMrlW-o9zNbu4kXXpAXACLcBGAs/s1600/android.png") no-repeat 0 5px;}
+#content h2.withIcon.icon2{background:url("https://3.bp.blogspot.com/-UdgSe3Xv5zA/Wtw40OBhilI/AAAAAAAAAdw/sqN_C2UTDHUEivhJRtxIk6nASC5iD0NzQCLcBGAs/s1600/windows.png") no-repeat 0 5px;}
+#content h2.withIcon.icon3{background:url("https://3.bp.blogspot.com/-szE7G8BSDZY/Wtw40UgX0pI/AAAAAAAAAd4/Y4bc_yfoN4ET3zJGQldY276UT6fVyZpuQCLcBGAs/s1600/blogger.png") no-repeat 0 5px;}
 
 /*******************************************************************************************************************
 *  TWITTER BAR                                                                                                          
